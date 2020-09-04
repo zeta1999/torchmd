@@ -1,4 +1,7 @@
 # torchmd
+<p align="left">
+  <img src="assets/logo.jpg" width="200">
+</p> 
 
 PyTorch code for End-to-end differetiable molecular simulations. Complete code and demo coming soon.
 
